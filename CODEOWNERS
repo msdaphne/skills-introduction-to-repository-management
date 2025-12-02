@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @msdaphne
+/src/backend/database.py      @msdaphne
+/src/backend/routers/auth.py  @msdaphne
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @msdaphne
